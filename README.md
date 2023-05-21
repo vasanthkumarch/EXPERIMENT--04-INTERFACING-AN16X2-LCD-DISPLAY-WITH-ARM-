@@ -184,5 +184,5 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
  
  
 ## Result :
-Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
+Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
